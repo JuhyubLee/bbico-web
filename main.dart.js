@@ -46659,7 +46659,7 @@ case 3:o=b
 if(o==null)n=0
 else{m=A.ur(o.h(0,"count"))
 m=m==null?null:B.d.c3(m)
-n=m==null?0:m}q=B.e.c_(20-n,0,20)
+n=m==null?0:m}q=B.e.c_(100-n,0,100)
 s=1
 break
 case 1:return A.o(q,r)}})
@@ -48397,7 +48397,7 @@ A.y9.prototype={
 I(a){var s,r,q,p,o,n,m,l=null,k=this.c
 if(k.b==null)s="\uc11c\ubc84 \uc5f0\uacb0 \uc804"
 else{r=k.as
-s=r==null?"\ud655\uc778 \uc911":A.j(r)+" / 20\ud68c"}r=k.w
+s=r==null?"\ud655\uc778 \uc911":A.j(r)+" / 100\ud68c"}r=k.w
 switch(r.a){case 0:q="\ud648 \ubc84\ud2bc\uc744 \uae38\uac8c \ub204\ub974\uace0 \ub9d0\ud574 \ubcf4\uc138\uc694"
 break
 case 1:q="\ub4e3\ub294 \uc911\u2026"
@@ -48955,7 +48955,7 @@ $2(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=this.a,g=h.f,f=h.x
 f===$&&A.a()
 if(f.b==null)s="\uc11c\ubc84 \uc5f0\uacb0 \uc804"
 else{r=f.as
-s=r==null?"\ud655\uc778 \uc911":A.j(r)+" / 20\ud68c"}q=h.ax.a
+s=r==null?"\ud655\uc778 \uc911":A.j(r)+" / 100\ud68c"}q=h.ax.a
 r=t.p
 p=A.b([new A.n9("\ubcc4\uba85",A.aY(g.ga3H(),i,i,i,i,i,i,i),A.aY("\ubc14\uafb8\uae30 >",i,i,i,i,A.bg(12,!0,B.k,1.25,i),i,i),new A.anY(a,g),i)],r)
 o=g.e
